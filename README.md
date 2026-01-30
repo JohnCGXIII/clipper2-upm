@@ -13,7 +13,7 @@ Clipper2 is a polygon clipping and offsetting library. It performs boolean opera
 3. Click **+** > **Add package from git URL...**
 4. Enter:
    ```
-   https://github.com/YOUR_USERNAME/clipper2-upm.git
+   https://github.com/JohnCGXIII/clipper2-upm.git
    ```
 
 ### Via manifest.json
@@ -23,7 +23,7 @@ Add the following to your project's `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.angusj.clipper2": "https://github.com/YOUR_USERNAME/clipper2-upm.git"
+    "com.angusj.clipper2": "https://github.com/JohnCGXIII/clipper2-upm.git"
   }
 }
 ```
