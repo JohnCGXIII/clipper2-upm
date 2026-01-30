@@ -1,0 +1,23 @@
+{
+  "name": "com.angusj.clipper2",
+  "version": "2.0.0",
+  "displayName": "Clipper2",
+  "description": "Polygon Clipping and Offsetting Library",
+  "unity": "2020.3",
+  "keywords": [
+    "geometry",
+    "polygon",
+    "clipping",
+    "offsetting",
+    "boolean-operations"
+  ],
+  "author": {
+    "name": "Angus Johnson",
+    "url": "https://www.angusj.com/clipper2/Docs/Overview.htm"
+  },
+  "license": "BSL-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AngusJohnson/Clipper2.git"
+  }
+}
